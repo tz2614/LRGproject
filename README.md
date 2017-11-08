@@ -31,3 +31,7 @@ Pair programming on LRG XML files
 #5. Export the information into excel or text file.
 
 #6. Testing of user input, build assert statements to check the output of each function.
+
+#emails
+#tony_zheng35@hotmail.com
+#duffys11@outlook.com
