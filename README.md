@@ -1,6 +1,8 @@
 # LRGproject
 Pair programming on LRG XML files
 
+https://eli.thegreenplace.net/2012/03/15/processing-xml-in-python-with-elementtree#id13
+
 
 #Explore LRG
 
