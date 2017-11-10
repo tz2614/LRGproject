@@ -43,7 +43,7 @@ def gene_info(root): #grab info on genes
                 assert (int_start < int_end), "Genomic start should be smaller than genomic end"
              
            
-    return (lrg_id, transcript, coord, start, end, strand)
+    return (lrg_id, transcript, coord, start, end, strand, int_start, int_end)
 
 def build_info(UA):
         
@@ -53,8 +53,11 @@ def build_info(UA):
         NC_num37 = child.get('other_id')
         gstart37 = child.get('other_start')
         gend37 = child.get('other_end')
+        int_37start = int(gstart37)
+        int_37end = int(gend37)
+        size37 = (int_37end - int_37start)
 
-        return (chr, build37, NC_num37, gstart37, gend37)
+        return (chr, build37, NC_num37, gstart37, gend37, int_37start, int_37end, size37)
 
 def build_info2(UA):
         
@@ -63,8 +66,11 @@ def build_info2(UA):
         NC_num38 = child.get('other_id')
         gstart38 = child.get('other_start')
         gend38 = child.get('other_end')
+        int_38start = int(gstart38)
+        int_38end = int(gend38)
+        size38 = (int_38end - int_38start)
 
-        return (build38, NC_num38, gstart38, gend38)
+        return (build38, NC_num38, gstart38, gend38, int_38start, int_38end, size38)
 
             
 def gene_name(filename):
@@ -73,10 +79,12 @@ def gene_name(filename):
     return (gene)
 
 (root, UA) = xml_info(filename)
-(lrg_id, transcript, coord, start, end, strand) = gene_info(root)
-(chr, build37, NC_num37, gstart37, gend37) = build_info(UA)
-(build38, NC_num38, gstart38, gend38) = build_info2(UA)
+(lrg_id, transcript, coord, start, end, strand, int_start, int_end) = gene_info(root)
+(chr, build37, NC_num37, gstart37, gend37, int_37start, int_37end, size37) = build_info(UA)
+(build38, NC_num38, gstart38, gend38, int_38start, int_38end, size38) = build_info2(UA)
 (gene) = gene_name(filename)
+
+
 
 print (lrg_id, "Transcript:", transcript, "cDNA start:", start, "cDNA end:", end, "strand:", strand)
 print (build37,  NC_num37, "Genomic start:", gstart37, "Genomic end:", gend37)
@@ -115,3 +123,5 @@ def get_exon_data(filename):
     return (list_exon_pos)
 
 (list_exon_pos)= get_exon_data(filename)
+
+assert (size37 == size38), "------------Warning!!! LRG size is different between builds--------"
