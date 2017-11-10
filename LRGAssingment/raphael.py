@@ -1,19 +1,19 @@
 # BIOL68400 Programming Project
-# By Tony and Seamy
+# By Tengyue Zheng and Seamus Duffy
 # 8/11/2017 
 
 
-#How to use it: 1. python donatello.py
+#How to use it: 1. python raphael.py
 #               2. enter filename in following format LRG_XX.xml 
 
 #importing packages
 import xml.etree.ElementTree as ET
 import glob
-import os
 
 #user to specify LRG. ?How to make .xml extension automatic?
 filename = input('Enter an LRG file e.g LRG_X.xml:')
 
+assert filename.startswith ('LRG_'), "File should start with LRG_ ID"
 assert filename.endswith ('xml'), "File should end with the extension .xml"
 
 
