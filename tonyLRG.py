@@ -44,13 +44,7 @@ def gene_info(root): #grab info on genes
                 start = coordinates.get('start')
                 end = coordinates.get('end')
                 strand = coordinates.get('strand')
-<<<<<<< HEAD
 
-=======
-                #Check statement to see if the start and end position of codons.
-                assert start < end , 'the start position should always be smaller than end'
-        
->>>>>>> c833475adc9f7c7757fd7999195bfa9b70f5559e
     return (lrg_id, transcript, coord, start, end, strand)
 
 def build_info(UA):
@@ -71,7 +65,6 @@ def build_info(UA):
         gstart38 = child.get('other_start')
         gend38 = child.get('other_end')
 """
-
 
 def gene_name(filename):
 
@@ -121,7 +114,6 @@ def get_exon_data(filename):
 (trans_exon_pos)= get_exon_data(filename)
 
 
-
 def get_protein_data(filename):
 
     protein_count = 0 # protein count set to zero
@@ -131,7 +123,7 @@ def get_protein_data(filename):
         protein_count += 1 #add 1 to count for every protein 'transcript' under FA
 
         prot_exon_lst = root.findall('./fixed_annotation/transcript/exon')
-        print( "protein number: ", protein_count, 'protein exon count: ', len(exon_lst))
+        print( "protein number: ", protein_count, 'protein exon count: ', len(prot_exon_lst))
 
         for exons in proteins.findall('exon'):
             exon = exons.get('label')
@@ -151,33 +143,4 @@ def get_protein_data(filename):
     return (prot_exon_pos)
 
 (trans_exon_pos)= get_exon_data(filename)
-
-
-
-"""
-    try:
-        prot_block = item.find("sequence")
-        protein_seq = prot_block.text
-        #print protein_seq
-        prot_transcript = item.attrib['name']
-        #print transcript
-    except:
-        print "No protein sequence was found"
-    protexons = []
-    #print 'for exon in...'
-    for exon_item in root.findall(exon_level):
-        for exon in exon_item.iter('exon'):
-            #print 'for coord in exon'
-            for coordinates in exon:
-                #print 'if...'
-                if coordinates.attrib['coord_system'][-2:] == prot_transcript:
-                    start_index = int(coordinates.attrib['start'])
-                    end_index = int(coordinates.attrib['end'])
-                    assert start_index >= 0, "Exon index out of bounds"
-                    assert end_index <= len(protein_seq), "Exon index out of bounds"
-                    seq = protein_seq[start_index-1:end_index]
-                    protexons.append((exon.attrib['label'], start_index, end_index,seq))
-    proteindict[prot_transcript] = protexons
-return proteindict
-"""
 

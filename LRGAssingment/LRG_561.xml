@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="application/xml" href="lrg2html.xsl"?>
+
+<lrg schema_version="1.9">
+  <fixed_annotation>
+    <id>LRG_561</id>
+    <hgnc_id>5101</hgnc_id>
+    <sequence_source>NG_012079.1</sequence_source>
+    <organism taxon="9606">Homo sapiens</organism>
+    <mol_type>dna</mol_type>
+    <creation_date>2015-08-12</creation_date>
+    <sequence>GGGTCCTGACCCCTCCCAGGCCTATCCCATCTGGGTTGCCCAGCCTAGAAAAGCAGCAGCTGGGTCCGCAGAAGAGAAGGAGGAAGTGTTGGGGAAGAAAGGAGGGTAGAGAAGGGAGGGGAGAGGAAGGGAGATAAGCCAGACTTGGTGGGGCCTTGAGGTGGAGTATTCCTAAGAAGGAGGTGGGAGACTCAGTTCAGGCTCTGGTGGAAGCCCGAAGTTGGGGGAGAGTCAGGGACCTAACAGCCCCTCTTCTCTGCGCCTGAGTATTGGATGCCCTCCAGTGGCACCTCAGCTGTTGCTCAGTCTAGCAGAGGCATCAAAAGAGGTAGGGAAGAGACAGGAGGTCCCAGCAGGTGAGAATGGCTGGAAGGAGGCAGGGCAGGAGACAGGAACTGTAGGGGGGACAGGAGCAGGATCAGGAACTGTAGAGGGACAGGACCCCCTTGAGAAGGACAGTGGTGACTGGGGCAGCTTGGCATTGACATTGAGACTGTGGACAAATGCTGGGCATTTAAAGGGCTGCATGTGCAAGTACTGGGGACTTCGAATTCTCAGATTTCTGGGACAAGGAGCAGCTGCTGCCTCCCAAGCCAGCCCCAGGGAGAGAAGAGGGTGGCCCAGCAGCTTTGCCAGTTGGAGCTGGGAAGCCTGGAGTGTGGAGGTGCTCCCGGCCACCCAGCTGTATCCTCCCTTGGAGTGAGAGGGTGTTAAGCCGCCTGTCAAGTGACGATCCTTGCAGCTCACGTCCCTTGAATGACTGTGCTGGAAACGCCCCCAGCACAACAACCTCGGTAACAAGGCCTCGCATTGCCCGGTGCTCACCGACGGCCTCGAGGCGACCCCGCCTGGGCACTGCCCGCCGGCGCCCTCCCGCTGCCTCCCGGACCATTCAGGCTGCAAGAAGAAGCGGAGGCGGCAGAGGCGCCTGGACCCACTTTATTCCGATATTCCGCCTGCAAAGGCTGTGGAAAGAAGCGTAAGGCTCAGGGATGGTAGTCCCCAGAGAGGAGGGTCCCTGAGGCTCTGCGCAAGCCCCCCCTCCCCAACCTTTCGGGCCAAGTCAGACGAAGCCTCGGAAAGGCTGGGTCTGTTTTGCTGACCAAATCTCCTTGTTAGCCGTTTCCGCCTGACAAGCCTGGCGCAGGCGTTGGCCTTCTCCTCTCCGGGCGGCCACCTCCAATGCCGCGCGGGGAGCAATGGGGCCCGGCCCTGCAGAGGGCTGCCTGGACCTTGAAGTTTGGAAAAACAAGAAGAGACTGAGCCGGCTCCCTCCCTTCTCTGCAGACACACACGCACCGTCAGGCCGCCGCCACTTCCTGCCTTTGTTTTTCTTCCTCCAAACATTTTTTGGCCTCTTGCATTAGCCGCGGTGGGGCTCTGGGTTGACGATAAAAGGAAATACACTCTGAAGACAGTTTTCTGGAGATGGCCCGCGCTGTGGAGCTCCTGAGAAAGAACAGCTCCTGGGAAGCCAGTCGCCAGGGCCAATGTCACAGCCTTACGCGCGCCGGCCTCTTCAAGAAATGGAACTCGGACTTGGCCTTCCGGGGCGGCTTTAGCCTCAGTCGGGTCTTTCCCAGAGCCCGGTGGGCTAAGCTCGGCTGTTGGACCTCCTGCAAAGCGGAAGAGTCAATCATAGGCTCAGAGCAAAGTCAAAACCAAGGACCCGAAGGTCTGCCTCCCCTTTTTCCCCTAGATTTGGTCTGATCCTCAGAGCTGCGCCCACCCCTCGCCCCAGCCGCCTGCCTGGAGAAACCTTCACATTCACACCGCCAGCATATTCCGAACACGAGGGCAGGAGCGGGCAAAGCTGGGATATTGCGCAGCCTTGGGGAGCTGAGTACCCGTCTCCTATTCCTGCTGGGCAACTAAAAGTGTTCGGCCACTCCAGGCGTTTTCCCTTCTGCTGATATCAAAAACCTTTTCCCTCATCCATCTTCACGGCAGCGCCCCCACACACCCCCTTCCGGGCGGCAAGTCCCTCCGGGCACTCGGCTTCGGTGCAGCCTGCCGAATTGCCCTGCCAGCCGCTCCCGGAGCGCCTTTCTCAGCCCCAGCCTTTTCTCCGGAATTCGCCTTTGTCTCCTGCGGACACCCGTGGGATCCAGCCCTGCCAGCACCCTCTCGGTTCGGCCCTCGAGGAGGACATGGGAGGCAGTGGTTATGCGGAACAGCGCACACCCCCATACCGACCTTTCTGCCGGGACCGCTCTCCCGGACACCAGGGGAAAACCGATCTAATTAAGAGAGGGGCTGCGTGCCGCTGGGGGAGGTGGCCTGGCATCCCCCGCTGGCGGGCCACCACAACCCCGTCTGCTCAGGCACAAGCTGAAGTTGACTGCCAAAACTGCTATAAAACCGCAGGTCTGTCTAGAACTGTTTTCGGTTTTCCTAGACGCCCCCGGGTTCAATTATGGTCTTAAAAGCCCTAATACAAGTGCAAGAATTTGTTTGCCTTCACCCAGGGGCGGGGCGAGCCCCGCAATGGTGGCGCCTTTGTTATGGCAAAGTCACTGAAACCCTTCATGCATTCCTTTTGTTCGAAGGTAGGGGTGGCGTGGACTGGGTGGGCTGCAGAGAGAGAGCTTGGGATAGCCAAAATCAAGCCAGGGAACAGCTCGAATACCGCTGTTTGAAACCTCTCCTTCTGTCTTTTATATTCTGTCTCTAAAAAAGAGATGCTGTGGAGAAACAAACATTTTGCCTTGTTGGTCACTGCTGGAAATAGAAGTTTTTTCGCTGCAGGGCAATTCTGTAAATGTGCTTCCCAGCTTTAGGAGGTCTGAGGCTACTCTTCTCCAATAACCTTCCTTCCCACTGGACCTTCTCACTCACAGCACTGCTGCCCTCTGGACAAGCCACAGTGGACAAATATGTCAAGCTGAAGATGCACAAATAATTTCAAGTTCAGTTCTCAGGGATTCAAAGGACATGAAAATTCTTGTAGCAAATCTTGAATAAAGAGTTCATTAAACCAATGTGTCCAAGTAGCTTGATTTGTGATAAGCAATCCTTGTAAAGGTGGTGGTGGGGGGAGGTGGAGAGCCACATAAACATTAATGCTAATAAATTAGTTTACTCGACTACAGAGTAATTACTTCATATTATTGATATTTACAGCAGGTATTCAAATGCAATGGTAGGCCATTATTTGGAGAAAATACATAATAAGAATATTTCTTTTCCAGTGCAATACACGATTAGATTTGTTATTGAGTCAGTTACAGTCAGCTCAGCAATAAATAAATAAATCGATGTTGACACTTAAATACCAAAGATCTTAGAGTTTATACTCTAAATCTCCCCAAGATATGTAAATAACTTTGGCTATTTCCTGGAGAGGGAAAAACAAAAGGTTATCTTTTTACATATTTTTTTATTTTCCTTCAGCAACATCCCAGATCCTTCCAAGAAGAGAGTTGTTGGGAGGCCTCAGGTCTGGGCCCTTCTCAGCTCCTGGCTCTGCCTGGCTGCTCTGTGCTCTGTGTCCTCTCCTTTCTTTCGCTTCCTCCAAACATTGCTCCTTCAATCCTGCAGGATGGGGAGCATATTTTGCCTTCTTAATTTATTTTTTTTCCTCTTCTCAAGAAAGCTAGACTCAGAGTATTGCTATGGCCTCTCTCTATCCTTAGCACAAACCTAGCTTTTTAAAGACATCCCTGTTTCCCCAGGTGCAGGGAGTTCGGGAAGCACCTCTCCTTTCTCTGGTATTGTATTCCTCCTGTGGAATGAGCAGTAGGAAAGGCACAGAGCTCTCTGAGTTTTTGCCCTGCACATCCCTTGCTTTCACTCTCACACATTGCAAGGAAGGAGAGTAGGAGAGTAGGTGGGTTACCCCTTTCTCAGCCACCTCTCCTTGGCCCTCAGCCCGTCCTTTCCACCTCCATTCTCCCCACACCCCTGGAGCTCTGTAAGCAGCCTGATGGGCCCCCCACGAAGATGCAGCATACCCAGGAGAAGTCTCCTCGGATGTCAGCGCCTCTAAAGCAGCCCAAGGCTTGCCTCAATTGCATGGTTTCCCGAGTCCTCAGCTCCAGAAGACCAGGCAGATGGGTGGACCGGTGAGCAGCAGGGCAGCCCCTGTGCCTCTGTCTCTGCCGAGTCACTCCGAAGCCCGGCAGGCAGCGAGGAGGAGGGAGTTTCTCCAAGGACAGAAGGTGGGATGAAGAGGTAGGCAGGGAAGATGAGGGGAGAGGTGGATCCCGGGTAAGACGAAGGCCCTTCCGGGCCCTGCGGATCAGTGACAAACCGCGGGGAGAAGCCGTTCTGGCTGTTGGCGGTTTAGGGACGGAAGGCACTAAAGCGCTTCGGAAGTGACCATGAATGAGAGAGTGTAATCAAGTCACCGTGCAAATCGGACAAGCCACCAGGCAGGCACATCCACGGCTTCAAACTCTGGCCCCGAAGGGGTTCCGGCTAGGGTCGGAGGCAGAGGCGCTTCCCAGAGCAAGTCTATGGGAGGGGGACTGCGAAGAAGGGGGTGCAAATGCGAGACTCCAGGAGAACAGACTCCGAGACCACAGGCCACACAGCGACGGACTCCCACCTGGCTATCCCCAGTCCAGGGCATCCCTCACCCACCCGGGGAGCTGCGGGTGGGAGGTGGGGACGAGAGTTGAGCTCTCACCGCCCTCTGCACACTCGAGAACGAGGACCCTGCAATTGAGCACAAGCATGCTGCATGGGGGCGCACCCCAGCCTCTCCGCGCGCGCCGGGAGGCCCCCCAGCCAACATGAGTTACACCGGCGATTACGTGCTTTCGGTGAGAACACCGAGTGACGATCTGTTGCTTCCCCTGAGGTGGCTACAAAGAAAGGAAGCCGGGAGGGAGGGGAGAGGAGGAAAAAAAAAAAAGGAAAGGGGGGGGGAAAAGGCCCGGACTAGCTAGCAGCTTGTCAATTTCAACATCGGGTCACATGACCAGCACCTCCCTGCTAAGGATGGGGATAGATTTCCACGTCAGCTTACGTCTCCAAATTTCTACTTCACGGATCCGCTTCAAAGAGGCAGCTGCAGTGGAGAATCATGTTAAGCTCGGCTACTGCGGAGAGCCCAAGGTAGCCCAATAATGGATTTTGATGAGCGTGGTCCCTGCTCCTCTAACATGTATTTGCCAAGTTGTACTTACTACGTCTCGGGTCCAGATTTCTCCAGCCTCCCTTCTTTTCTGCCCCAGACCCCGTCTTCGCGCCCAATGACATACTCCTACTCCTCCAACCTGCCCCAGGTCCAACCCGTGCGCGAAGTGACCTTCAGAGAGTACGCCATTGAGCCCGCCACTAAATGGCACCCCCGCGGCAATCTGGCCCACTGCTACTCCGCGGAGGAGCTCGTGCACAGAGACTGCCTGCAGGCGCCCAGCGCGGCCGGCGTGCCTGGCGACGTGCTGGCCAAGAGCTCGGCCAACGTCTACCACCACCCCACCCCCGCAGTCTCGTCCAATTTCTATAGCACCGTGGGCAGGAACGGCGTCCTGCCACAGGCTTTCGACCAGTTTTTCGAGACAGCCTACGGCACCCCGGAAAACCTCGCCTCCTCCGACTACCCCGGGGACAAGAGCGCCGAGAAGGGGCCCCCGGCGGCCACGGCGACCTCCGCGGCGGCGGCGGCGGCTGCAACGGGCGCGCCGGCAACTTCAAGTTCGGACAGCGGCGGCGGCGGCGGCTGCCGGGAGACGGCGGCGGCAGCAGAGGAGAAAGAGCGGCGGCGGCGCCCCGAGAGCAGCAGCAGCCCCGAGTCGTCTTCCGGCCACACTGAGGACAAGGCCGGCGGCTCCAGTACGTATAAAGGCAGCGCCCTGCGCTTTATGAAAGGGGAGTTGGAAATCTAGCGCAGCACCGCTGTTAAATTTTTATATGCTGTTTTATAAGCATATAAGGTTTATGAAGGGCCTTTAGGTTTCCCCCAACAAAACTTTGTTATAAAAGGCGGGATCACGTGGCGAGTGCTGAAATTGGCCGTGAAATACCCACCGGCCAAGGCATGCCTGCAAAAAAAAACAACTCCCCTTTTCCCTTTTTTCCCTTCTCAGCTCCCAAGCCCAGCAGCTCGACCCCGCTCGGGGCCAGCTCCAGGCTGGGGAGCCGGAGGTGGGCGCCTGTAAATTCCCCCTGCAAGGGCTTCGGGAGCTTTTGATAGCGAGGTAATCCGGAGATTTTTATAAAAGCCATGTGTTGCGCCGGGACTCCAGTCCCGGCCGGGATTCAAAGGCGTCGCTGTTTAACGACGGCGCTAGGAGCGCGTTTAACAGATAAAGTAGCCCGCTTAGCTCTAGCAATATATTAAAAGAACAAATTAACCCAAAGTTGGCCTTTTTGTCCAAAGGAAGCCATTTTCCTCTGGCGTGGTGGCAATTACGTGCCTCCTTCTGCCCAACTGCATGTTATTCACAATTGTTATTCAATCTGTCAAAAGCGATTTTTTTTTTGTCTTGTGGGTCTTTTTTTTTTTTTTTTTTTTTTTTTTAAAGGGGGAGCAAGTAGAGCCTGCCCGCAGCTTCGGGAAGCCCCCTTTCCCTTCACCCTACCTAAGATAGAGCCGCTGCTCTGCCGTGTGCAGGATGGCCGTGTGGCCGTGGTGCTCAGCGAAGGCCTAGGGTAGGGGGCTTCCGCCGCCACCTCCCCACCTCGGCGGAGCCGGAAGGCTGGCCGGGGAGGCAGAAGCTGGTGGCCAGGACTCAGGCTGACAAAGACCCGGCAGCCGCCCCAGATGTTAAGGACTGCCCAGTCTTGGCCGCAGCCGGGAAAGACTGGGACTGGAGCCGCCTTTACTGCCTTGGGAAGGGGCAGCCCAGGTGCTGGAAGGTGAAATGTCCGCAGGCGGCTGTTTGTTTAGTCTGGCCTGCGAGAGGCAGCCGGCAACCCCCACTTGGCTGCTTTCAAAGAGGCTTAGGCAGCGCAAACTCGCCTGTTGCTGTGCGAAGCTCTCCTTTCTGTTCTGGGGGCAGCGGGAGCAGCTTCCCCGGGGGCCTATTTAGGGAGCTGGCTTTTATCTGTGGCTGAGCCTCCAACTGCGGCCGTTCCAAGCATGCAGTCGGAGCGTTAAAGGCAGGGGCCTGGGCAGACTTTGACGGGGCTTGGGCTGGACCACCAGTCCCCATGGCAGCCCTTCTCCTCAGCTATGGGCTCTGGGGTGGATTGCAGCCCCCACACCTGGCTCACCCCATGCCTTTTCTCCCTCCACAGGTGGCCAACGCACCCGCAAAAAGCGCTGCCCCTATACCAAGTACCAGATCCGAGAGCTGGAACGGGAGTTCTTCTTCAGCGTCTACATTAACAAAGAGAAGCGCCTGCAACTGTCCCGCATGCTCAACCTCACTGATCGTCAAGTCAAAATCTGGTTTCAGAACAGGAGAATGAAGGAAAAAAAAATTAACAGAGACCGTTTACAGTACTACTCAGCAAATCCACTCCTCTAAGACTCCAGCGGCTGGAATTGGGTGGGGGGCTTCATACACATGAGATAATATGCAGATTTTGCCCTTGACAAAGTCAAGCCACATGGTGACTTTTGAAAAGAGGTGTGCAAGAGAGGGATGCATGGAGATAGCCCCACAGGAGGTGGTCTGGGACTCTCTTGATTAAGATCTCAGTGGTTAAGATTCCTAATAATCATTGGATTCTGAGAGCTGTGCATCAGCTAGAATGACAGGTTTGGGACCCCTGGTGGTTCACTCTTGGAGCCTGCAGAGCTGCGGGCTGGGTGTGGTCTCCACTGGGGATTGGGCCCCTGCCAGACCCCCTGGAGACTAACCCCACCACACCCTCCCTCTACTGGGAGCCTACCCACCCCCAGGACCCCTGAGTAAAAAAGCTGTGTGCTCTCCAAGCCCAGTTCAGCTTGGGGACAGGGGCAGGAGGAAGGGGTAGGATTACTAGGTGCCCAGAATGAGGCTGCTTTCCAAAGCCAATGTGAACAGCGGCTGGACTTGGAGGTAGCTTTGAGGTGGAAGAGGGCTGCAAATCCTTGTGGGAAAAGAAATCTATGATTCCAGGTGGCATCAGTGTCTTTCCACTCCTCCTAGCCACCCACCACACTGATCCAGCCCTGAGTTCCTAGCCACCGCCTCCTACAGCCCACCTGGCTTTTCTTTCTACCAAATGAGGGTCTTGGTTCCAGCCTGCCACTCAGGCCCAAAGCCTCGACACAGAGTGGACTGTTCCCTGAGGTGGGAGATGTGGAAAAGCCAAGAGGCTGCAGCCAGGCCACTGGCCCCTGAGATCTCTGCAGGAAATGGCTGTGGAGTGTGGCAGTTTGGCAAACTCTCCACCACACGTAATGAAACTTGGATTTGCTCAGTGTCTGGCTGCAGAGCAGTGGGCCTGGCCAGCAGGTCCCCAGCTTTGGCTATGAGGGCCTTGAGTCCCCCAAAACACCGGGTTCCAGCACCACACTCAGCCCTCATTGGCTCTTGAACTGAGCTTGGAAGCTTCTGGTGACCTTCCAAGAGCCTGAGAGTGAGGTGGAATTATTTTAAAAGATAAATATTATATTATATATATATATATTTCCCTGAAGGAACCAAAGCGAATTTTAAAAGATGCAATGTAGAGGGGAAAAGAGATGATGAAAATATTTAAAGGCCCTATCTGTTTACAGTGTTCCGTGGTTAAACTCGCTCACTGCTAAGAATATTTGAATGTATGCTTCATACAGGGATGGTGTTCAAAAAACTTGTAAATAAAGGAACCATAATCAATTTTCTTTTCTTTCTTTCTCTTTTTCTTTTTTCTTTTGCCATTAGTTGATTTCCTTTAGGGTGTTGGAGGGGGTGGAAAAGGTATTGAGAATGGTCTTTTTAATCTCTTGCAACATTTGGAAAGAGTTAGGGAAATGCTCAGAGGCAGTCGGCCTGGCCGGCCTGGGGATCTCATCTGGGAAAGCCAGGCACCCTCCCATTGAATCTCCTTTGCCTCCCTGTGTTAAGAAATGTCTGTTGGCTCCATTTGTACTGGGAGTGTTGGCCTGTCCTCAATTCTGGTTCTTACCCACCGTGTGTGTTGCAGCACTTATACAGGCAACTGGGCACAAGGAAAATAAAGACGGTGGAAATTTGAGTATCCTGGTGTGACATTCCTCTCCCTGATCGCCTTTTACTACCAAATGTCTGCCCCCCTCCCCCCACCCCCCCAAAAAATGCCTTACCTAGTTGAGGAGCAAGTTATCAGGCCCCTGAGGGGGTGAGAAGGTGACTGAGTCAGGAATTGGCTACAACAGAAGCCAGGCTTAGGAAACCAAGGTGGTTGGCTACGTCCTTGTGGGAAGTGGGGACCTGGGTGGTATCTCAGGGCCTGGAATATAGGACTTTATCCCCTCAGACTGATCTCAGCCCTGGAGAGGGCCTTGGGGCCTGAGGTGGCCAACAGGTCAGACCCCAGGCTGCCCTCGCTCACCTCAGGACAGGTAGGCCTGCAGTGGGACCGTCCGGGGGCCCGTGGAGGCTTCAACAAGAGGGAGCCTGGTCTGGGTTCCAAGGCAGAGCAGACTCCCAGGAGCCTCTAAGGGTGCTTTCTCCCCAGCTCCCAGCTGAGGCTGCTTTTTCCCTTTGGGGGAAAAAAAAAGGATGCCGATTTCCTCTTTGTTTGCTGCCTTTGAACTTCTGCCTTAAAATTGGACATCACCCATAACCTTGAGGAGAAGGGCTGAAAGGACAGAGCCCTTTGTTGCCCACCCCACCCTCTCTTCAGCCACCCAGGCAGGGCCAGAGCAGCAGATAGGGTCGCATTTGGAGAGAGGCCCCAGACCCCACTCTGTTTATTTGTTTGTGTGTTTGTCTAACTGGCGCGACTGGGGAAATCGAGCTGAAAGGGTAGTGGGACAGATCTAGAGATGAATGTCTAGGTTGATAGGCAGACACGCAGACATGAACAAGGGCCCTCCTGGGGGGCAGGGAGGGGGCGGGCTGGGAAGCCTGGGTTTAGGGAAAGACTTCCTTTGGGATGGTTAAAGATTAACCAAAGTCTCTCAAGTTGCTAGAGAGAGTCTAGCCAGGAGGACTGCTCGCGGGCGGGCGGCGGGCGGGCGCGGGTTTGATTTCTGAGCCCTATAAAAGCCCATCCTCCGATGGCTGTGACAATGTGGTCGTAAACCCGTCCGGGGCCGGCCAATTTGCATATTTGGAATGCGCCGCTATAAACCCGGCTGGGGTTTTGCAGCGATTTCTTAGATGTAAAAATGAGATCTCAATAGCAGCGGGCTGGGCACATCCTCTCCTCTCTCCTTCTCTCTCTGCCCGGAGCTGGTTTCCGTCTCTCGGCTCGGGGCTGGAACTCCGGCCCAACCTAGGCGCGCAGCCGCCACGAGATGGCGCACTTCCGATCAATGTCAAAGCCGCCGGGGAGCCGGGAACCCCAGCATGATTCTTGGCCTTTGTTCGCTTCTGATACTAAGAGCAGCACGGTACATTATTTCACTTGTCCCGCTCCCCTTCATAACAGAAAAAGGGGACTCACCCTCAAGAAGTGATTGGTATGGTAATTTAAAGCAACGCGCATTCGCTAGGCCTCGCGAGCGTCGCCGCGCGGAGAAGCCAGCTGTCCCTTGGCAGTGATTTCGGAAATGTGTCAAGGTAAGAGGCCACAAGTTTAGCAATTTCAGTCTGGTGGGGCGGGAGTGGGGAGGTGGCCGATGTCTAAGCAGGGCTCTCGGGAACGTGGCTGGGTTTGTGGGGTGACGCGGTAGGGAGCCCCCACCCCATTGCTCCCTAAGGTTGGAAAGCAGGGGGAGGCCTAAGTAGAAAAGTTGAGGATTTTAGCTCCTTGCGCCAGCATTTCACTCAAGGCGAATCTTTCGATTTTGTAGAAATACACAGAATAGAATGGGCTAGGGATGAGAGGCATCTAGGCGAAAGTGTTCCAGCTGTGCTGCGATAGGGGGTTGTGGGAGGGCAAAAAAAAAAAAAAAGGTGATCGCGGGTTGAGGAAAACAAAGTTTCCATTCTAAACAATGGGGTGGTAGAAGTCTGCGGCCGCTAAGGCGAGCTTATTCCCAGGGGCAGAAGTCCTGGAGGTCACTGGTTTCCTACTAGGTGCATCTCTATGTCTGCCCGGCAGCTTGG</sequence>
+    <transcript name="t1">
+      <comment>The coding sequence of this transcript is identical to the coding sequence of Ensembl transcript ENST00000006015.3. The two transcripts differ at the 3'UTR.</comment>
+      <coordinates coord_system="LRG_561" start="5001" end="9060" strand="1" />
+      <cdna>
+        <sequence>CTTCAAAGAGGCAGCTGCAGTGGAGAATCATGTTAAGCTCGGCTACTGCGGAGAGCCCAAGGTAGCCCAATAATGGATTTTGATGAGCGTGGTCCCTGCTCCTCTAACATGTATTTGCCAAGTTGTACTTACTACGTCTCGGGTCCAGATTTCTCCAGCCTCCCTTCTTTTCTGCCCCAGACCCCGTCTTCGCGCCCAATGACATACTCCTACTCCTCCAACCTGCCCCAGGTCCAACCCGTGCGCGAAGTGACCTTCAGAGAGTACGCCATTGAGCCCGCCACTAAATGGCACCCCCGCGGCAATCTGGCCCACTGCTACTCCGCGGAGGAGCTCGTGCACAGAGACTGCCTGCAGGCGCCCAGCGCGGCCGGCGTGCCTGGCGACGTGCTGGCCAAGAGCTCGGCCAACGTCTACCACCACCCCACCCCCGCAGTCTCGTCCAATTTCTATAGCACCGTGGGCAGGAACGGCGTCCTGCCACAGGCTTTCGACCAGTTTTTCGAGACAGCCTACGGCACCCCGGAAAACCTCGCCTCCTCCGACTACCCCGGGGACAAGAGCGCCGAGAAGGGGCCCCCGGCGGCCACGGCGACCTCCGCGGCGGCGGCGGCGGCTGCAACGGGCGCGCCGGCAACTTCAAGTTCGGACAGCGGCGGCGGCGGCGGCTGCCGGGAGACGGCGGCGGCAGCAGAGGAGAAAGAGCGGCGGCGGCGCCCCGAGAGCAGCAGCAGCCCCGAGTCGTCTTCCGGCCACACTGAGGACAAGGCCGGCGGCTCCAGTGGCCAACGCACCCGCAAAAAGCGCTGCCCCTATACCAAGTACCAGATCCGAGAGCTGGAACGGGAGTTCTTCTTCAGCGTCTACATTAACAAAGAGAAGCGCCTGCAACTGTCCCGCATGCTCAACCTCACTGATCGTCAAGTCAAAATCTGGTTTCAGAACAGGAGAATGAAGGAAAAAAAAATTAACAGAGACCGTTTACAGTACTACTCAGCAAATCCACTCCTCTAAGACTCCAGCGGCTGGAATTGGGTGGGGGGCTTCATACACATGAGATAATATGCAGATTTTGCCCTTGACAAAGTCAAGCCACATGGTGACTTTTGAAAAGAGGTGTGCAAGAGAGGGATGCATGGAGATAGCCCCACAGGAGGTGGTCTGGGACTCTCTTGATTAAGATCTCAGTGGTTAAGATTCCTAATAATCATTGGATTCTGAGAGCTGTGCATCAGCTAGAATGACAGGTTTGGGACCCCTGGTGGTTCACTCTTGGAGCCTGCAGAGCTGCGGGCTGGGTGTGGTCTCCACTGGGGATTGGGCCCCTGCCAGACCCCCTGGAGACTAACCCCACCACACCCTCCCTCTACTGGGAGCCTACCCACCCCCAGGACCCCTGAGTAAAAAAGCTGTGTGCTCTCCAAGCCCAGTTCAGCTTGGGGACAGGGGCAGGAGGAAGGGGTAGGATTACTAGGTGCCCAGAATGAGGCTGCTTTCCAAAGCCAATGTGAACAGCGGCTGGACTTGGAGGTAGCTTTGAGGTGGAAGAGGGCTGCAAATCCTTGTGGGAAAAGAAATCTATGATTCCAGGTGGCATCAGTGTCTTTCCACTCCTCCTAGCCACCCACCACACTGATCCAGCCCTGAGTTCCTAGCCACCGCCTCCTACAGCCCACCTGGCTTTTCTTTCTACCAAATGAGGGTCTTGGTTCCAGCCTGCCACTCAGGCCCAAAGCCTCGACACAGAGTGGACTGTTCCCTGAGGTGGGAGATGTGGAAAAGCCAAGAGGCTGCAGCCAGGCCACTGGCCCCTGAGATCTCTGCAGGAAATGGCTGTGGAGTGTGGCAGTTTGGCAAACTCTCCACCACACGTAATGAAACTTGGATTTGCTCAGTGTCTGGCTGCAGAGCAGTGGGCCTGGCCAGCAGGTCCCCAGCTTTGGCTATGAGGGCCTTGAGTCCCCCAAAACACCGGGTTCCAGCACCACACTCAGCCCTCATTGGCTCTTGAACTGAGCTTGGAAGCTTCTGGTGACCTTCCAAGAGCCTGAGAGTGAGGTGGAATTATTTTAAAAGATAAATATTATATTATATATATATATATTTCCCTGAAGGAACCAAAGCGAATTTTAAAAGATGCAATGTAGAGGGGAAAAGAGATGATGAAAATATTTAAAGGCCCTATCTGTTTACAGTGTTCCGTGGTTAAACTCGCTCACTGCTAAGAATATTTGAATGTATGCTTCATACAGGGATGGTGTTCAAAAAACTTGTAAATAAAGGAACCATAATCAATTTTCTTTTCTTTCTTTCTCTTTTTCTTTTTTCTTTTGCCATTAGTTGATTTCCTTTAGGGTGTTGGAGGGGGTGGAAAAGGTATTGAGAATGGTCTTTTTAATCTCTTGCAACATTTGGAAAGAGTTAGGGAAATGCTCAGAGGCAGTCGGCCTGGCCGGCCTGGGGATCTCATCTGGGAAAGCCAGGCACCCTCCCATTGAATCTCCTTTGCCTCCCTGTGTTAAGAAATGTCTGTTGGCTCCATTTGTACTGGGAGTGTTGGCCTGTCCTCAATTCTGGTTCTTACCCACCGTGTGTGTTGCAGCACTTATACAGGCAACTGGGCACAAGGAAAATAAAGACGGTGGAAATTTGA</sequence>
+      </cdna>
+      <coding_region>
+        <coordinates coord_system="LRG_561" start="5073" end="7421" strand="1" />
+        <translation name="p1">
+          <sequence>MDFDERGPCSSNMYLPSCTYYVSGPDFSSLPSFLPQTPSSRPMTYSYSSNLPQVQPVREVTFREYAIEPATKWHPRGNLAHCYSAEELVHRDCLQAPSAAGVPGDVLAKSSANVYHHPTPAVSSNFYSTVGRNGVLPQAFDQFFETAYGTPENLASSDYPGDKSAEKGPPAATATSAAAAAAATGAPATSSSDSGGGGGCRETAAAAEEKERRRRPESSSSPESSSGHTEDKAGGSSGQRTRKKRCPYTKYQIRELEREFFFSVYINKEKRLQLSRMLNLTDRQVKIWFQNRRMKEKKINRDRLQYYSANPLL</sequence>
+        </translation>
+      </coding_region>
+      <exon label="1">
+        <coordinates coord_system="LRG_561" start="5001" end="5781" strand="1" />
+        <coordinates coord_system="LRG_561t1" start="1" end="781" />
+        <coordinates coord_system="LRG_561p1" start="1" end="237" />
+      </exon>
+      <intron phase="1" />
+      <exon label="2">
+        <coordinates coord_system="LRG_561" start="7189" end="9060" strand="1" />
+        <coordinates coord_system="LRG_561t1" start="782" end="2653" />
+        <coordinates coord_system="LRG_561p1" start="237" end="313" />
+      </exon>
+    </transcript>
+  </fixed_annotation>
+  <updatable_annotation>
+    <annotation_set type="requester">
+      <source>
+        <name>The ThromboGenomics Project</name>
+        <url>www.thrombogenomics.org.uk</url>
+        <contact>
+          <name>Ilenia Simeoni</name>
+          <address>University of Cambridge Department of Haematology &amp; NHS Blood and Transplant</address>
+          <email>is250@cam.ac.uk</email>
+        </contact>
+      </source>
+      <modification_date>2017-11-09</modification_date>
+    </annotation_set>
+    <annotation_set type="lrg">
+      <source>
+        <name>LRG</name>
+        <url>http://www.lrg-sequence.org/</url>
+        <contact>
+          <name>Locus Reference Genomic</name>
+          <url>http://www.lrg-sequence.org/contact</url>
+          <email>feedback@lrg-sequence.org</email>
+        </contact>
+      </source>
+      <modification_date>2017-11-09</modification_date>
+      <mapping coord_system="GRCh37.p13" other_name="7" other_id="NC_000007.13" other_id_syn="CM000669.1" other_start="27218776" other_end="27229835" type="other_assembly">
+        <mapping_span lrg_start="1" lrg_end="11060" other_start="27218776" other_end="27229835" strand="-1" />
+      </mapping>
+      <mapping coord_system="GRCh38.p7" other_name="7" other_id="NC_000007.14" other_id_syn="CM000669.2" other_start="27179157" other_end="27190216" type="main_assembly">
+        <mapping_span lrg_start="1" lrg_end="11060" other_start="27179157" other_end="27190216" strand="-1" />
+      </mapping>
+      <lrg_locus source="HGNC">HOXA11</lrg_locus>
+    </annotation_set>
+    <annotation_set type="ncbi">
+      <source>
+        <name>NCBI RefSeqGene</name>
+        <url>http://www.ncbi.nlm.nih.gov/projects/RefSeq/RSG/</url>
+        <contact>
+          <name>RefSeqGene Group</name>
+          <address>NCBI/NLM/NIH</address>
+          <email>refseq-admin@ncbi.nlm.nih.gov</email>
+        </contact>
+      </source>
+      <comment>Annotation from NG_012079.1</comment>
+      <modification_date>2017-11-03</modification_date>
+      <mapping coord_system="NM_005523.5" other_name="NM_005523.5" other_id="NM_005523.5" other_start="1" other_end="2653" type="transcript">
+        <mapping_span lrg_start="5001" lrg_end="5781" other_start="1" other_end="781" strand="1" />
+        <mapping_span lrg_start="7189" lrg_end="9060" other_start="782" other_end="2653" strand="1" />
+      </mapping>
+      <features>
+        <gene source="NCBI-Gene" accession="221883">
+          <symbol source="HGNC" name="HOXA11-AS">
+            <synonym>HOXA-AS5</synonym>
+            <synonym>HOXA11-AS1</synonym>
+            <synonym>HOXA11AS</synonym>
+            <synonym>HOXA11S</synonym>
+            <synonym>NCRNA00076</synonym>
+          </symbol>
+          <coordinates coord_system="LRG_561" start="924" end="4809" strand="-1" />
+          <long_name>HOXA11 antisense RNA</long_name>
+          <db_xref source="GeneID" accession="221883" />
+          <db_xref source="HGNC" accession="HGNC:24957" />
+          <db_xref source="MIM" accession="607530" />
+          <transcript source="RefSeq" accession="NR_002795.2">
+            <coordinates coord_system="LRG_561" start="924" end="4809" strand="-1" />
+            <long_name>HOXA11 antisense RNA</long_name>
+            <db_xref source="GeneID" accession="221883" />
+            <db_xref source="GI" accession="197313738" />
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_561" start="3954" end="4809" strand="-1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_561" start="924" end="1616" strand="-1" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="NCBI-Gene" accession="3207">
+          <symbol source="HGNC" name="HOXA11">
+            <synonym>HOX1</synonym>
+            <synonym>HOX1I</synonym>
+            <synonym>RUSAT1</synonym>
+          </symbol>
+          <coordinates coord_system="LRG_561" start="5001" end="9060" strand="1" />
+          <long_name>homeobox A11</long_name>
+          <db_xref source="GeneID" accession="3207" />
+          <db_xref source="HGNC" accession="HGNC:5101" />
+          <db_xref source="MIM" accession="142958" />
+          <db_xref source="CCDS" accession="CCDS5411.1" />
+          <db_xref source="GI" accession="237820694" />
+          <transcript source="RefSeq" accession="NM_005523.5" fixed_id="t1">
+            <coordinates coord_system="LRG_561" start="5001" end="9060" strand="1" />
+            <long_name>homeobox A11</long_name>
+            <db_xref source="GeneID" accession="3207" />
+            <db_xref source="GI" accession="84105266" />
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_561" start="5001" end="5781" strand="1" />
+            </exon>
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_561" start="7189" end="9060" strand="1" />
+            </exon>
+            <protein_product source="RefSeq" accession="NP_005514.1" fixed_id="p1">
+              <coordinates coord_system="LRG_561" start="5073" end="7421" strand="1" />
+              <db_xref source="CCDS" accession="CCDS5411.1" />
+              <db_xref source="GeneID" accession="3207" />
+              <db_xref source="GI" accession="5031759" />
+            </protein_product>
+          </transcript>
+        </gene>
+        <gene source="NCBI-Gene" accession="3206">
+          <symbol source="HGNC" name="HOXA10">
+            <synonym>HOX1</synonym>
+            <synonym>HOX1.8</synonym>
+            <synonym>HOX1H</synonym>
+            <synonym>PL</synonym>
+          </symbol>
+          <coordinates coord_system="LRG_561" start="9956" end="11060" strand="1" />
+          <partial>3-prime</partial>
+          <long_name>homeobox A10</long_name>
+          <db_xref source="GeneID" accession="3206" />
+          <db_xref source="HGNC" accession="HGNC:5100" />
+          <db_xref source="MIM" accession="142957" />
+          <db_xref source="CCDS" accession="CCDS5410.2" />
+          <transcript source="RefSeq" accession="NR_037939.1">
+            <coordinates coord_system="LRG_561" start="9956" end="10571" strand="1" />
+            <partial>3-prime</partial>
+            <long_name>homeobox A10, transcript variant 2</long_name>
+            <db_xref source="GeneID" accession="3206" />
+            <db_xref source="GI" accession="325652049" />
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_561" start="9956" end="10571" strand="1" />
+              <partial>3-prime</partial>
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="NCBI-Gene" accession="100534589">
+          <symbol name="HOXA10-HOXA9" />
+          <coordinates coord_system="LRG_561" start="9956" end="11060" strand="1" />
+          <partial>3-prime</partial>
+          <long_name>HOXA10-HOXA9 readthrough</long_name>
+          <db_xref source="GeneID" accession="100534589" />
+          <transcript source="RefSeq" accession="NR_037940.1">
+            <coordinates coord_system="LRG_561" start="9956" end="10571" strand="1" />
+            <partial>3-prime</partial>
+            <long_name>HOXA10-HOXA9 readthrough</long_name>
+            <db_xref source="GeneID" accession="100534589" />
+            <db_xref source="GI" accession="325652057" />
+            <exon source="RefSeq" accession="">
+              <coordinates coord_system="LRG_561" start="9956" end="10571" strand="1" />
+              <partial>3-prime</partial>
+            </exon>
+          </transcript>
+        </gene>
+      </features>
+    </annotation_set>
+    <annotation_set type="ensembl">
+      <source>
+        <name>Ensembl</name>
+        <url>http://www.ensembl.org/</url>
+        <contact>
+          <name>Ensembl</name>
+          <address>European Bioinformatics Institute</address>
+          <email>helpdesk@ensembl.org</email>
+        </contact>
+      </source>
+      <comment>Annotation is based on Ensembl release 90 (GRCh38  primary assembly)</comment>
+      <modification_date>2017-11-09</modification_date>
+      <mapping coord_system="ENST00000006015.3" other_name="ENST00000006015.3" other_id="ENST00000006015.3" other_start="1" other_end="2295" type="transcript">
+        <mapping_span lrg_start="5001" lrg_end="5781" other_start="1" other_end="781" strand="1" />
+        <mapping_span lrg_start="7189" lrg_end="8702" other_start="782" other_end="2295" strand="1" />
+      </mapping>
+      <mapping coord_system="ENST00000517402.1" other_name="ENST00000517402.1" other_id="ENST00000517402.1" other_start="1" other_end="2137" type="transcript">
+        <mapping_span lrg_start="4994" lrg_end="5061" other_start="1" other_end="68" strand="1" />
+        <mapping_span lrg_start="5232" lrg_end="5781" other_start="69" other_end="618" strand="1" />
+        <mapping_span lrg_start="7189" lrg_end="8707" other_start="619" other_end="2137" strand="1" />
+      </mapping>
+      <features>
+        <gene source="Ensembl" accession="ENSG00000253508.1">
+          <symbol source="Clone_based_ensembl_gene" name="AC004080.2" />
+          <coordinates coord_system="LRG_561" start="1" end="3644" strand="1" mapped_from="GRCh38" />
+          <partial>5-prime</partial>
+          <long_name>AC004080.2 (lincRNA)</long_name>
+          <db_xref source="Ensembl" accession="ENSG00000253508" />
+          <transcript source="Ensembl" accession="ENST00000523331.1">
+            <coordinates coord_system="LRG_561" start="1" end="3644" strand="1" mapped_from="GRCh38" />
+            <partial>5-prime</partial>
+            <long_name>AC004080.2-201 (lincRNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00002124667">
+              <coordinates coord_system="LRG_561" start="3394" end="3644" strand="1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000240990.9">
+          <symbol source="HGNC" name="HOXA11-AS" />
+          <coordinates coord_system="LRG_561" start="924" end="5699" strand="-1" mapped_from="GRCh38" />
+          <long_name>HOXA11 antisense RNA (antisense_RNA)</long_name>
+          <db_xref source="GeneID" accession="221883" />
+          <db_xref source="HGNC" accession="24957">
+            <synonym>HOXA-AS5</synonym>
+            <synonym>HOXA11-AS1</synonym>
+            <synonym>HOXA11AS</synonym>
+            <synonym>HOXA11S</synonym>
+            <synonym>NCRNA00076</synonym>
+          </db_xref>
+          <db_xref source="MIM" accession="607530" />
+          <db_xref source="Ensembl" accession="ENSG00000240990" />
+          <transcript source="Ensembl" accession="ENST00000522674.1">
+            <coordinates coord_system="LRG_561" start="924" end="4809" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS-204 (antisense_RNA)</long_name>
+            <db_xref source="RefSeq" accession="NR_002795.2" />
+            <exon source="Ensembl" accession="ENSE00002097121">
+              <coordinates coord_system="LRG_561" start="3954" end="4809" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002113482">
+              <coordinates coord_system="LRG_561" start="924" end="1616" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000479766.1">
+            <coordinates coord_system="LRG_561" start="997" end="2398" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS-201 (antisense_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00002057864">
+              <coordinates coord_system="LRG_561" start="2197" end="2398" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002065189">
+              <coordinates coord_system="LRG_561" start="997" end="1616" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000520360.5">
+            <coordinates coord_system="LRG_561" start="1050" end="5699" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS-202 (antisense_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00002094257">
+              <coordinates coord_system="LRG_561" start="5133" end="5699" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002139566">
+              <coordinates coord_system="LRG_561" start="3954" end="4108" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002106520">
+              <coordinates coord_system="LRG_561" start="1050" end="1616" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000522863.1">
+            <coordinates coord_system="LRG_561" start="1050" end="5546" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS-205 (antisense_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00002094129">
+              <coordinates coord_system="LRG_561" start="4973" end="5546" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002098358">
+              <coordinates coord_system="LRG_561" start="4585" end="4808" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002133049">
+              <coordinates coord_system="LRG_561" start="4253" end="4455" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002139566">
+              <coordinates coord_system="LRG_561" start="3954" end="4108" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002106520">
+              <coordinates coord_system="LRG_561" start="1050" end="1616" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000520395.1">
+            <coordinates coord_system="LRG_561" start="3096" end="4683" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS-203 (antisense_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00002095500">
+              <coordinates coord_system="LRG_561" start="3954" end="4683" strand="-1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002127158">
+              <coordinates coord_system="LRG_561" start="3096" end="3534" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000278020.1">
+          <symbol source="RFAM" name="HOXA11-AS1_6" />
+          <coordinates coord_system="LRG_561" start="1223" end="1401" strand="-1" mapped_from="GRCh38" />
+          <long_name>HOXA11 antisense RNA 1 conserved region 6 [Source:RFAM;Acc:RF02142] (misc_RNA)</long_name>
+          <db_xref source="RFAM" accession="RF02142" />
+          <db_xref source="Ensembl" accession="ENSG00000278020" />
+          <transcript source="Ensembl" accession="ENST00000620092.1">
+            <coordinates coord_system="LRG_561" start="1223" end="1401" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS1_6.1-201 (misc_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00003733357">
+              <coordinates coord_system="LRG_561" start="1223" end="1401" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000278592.1">
+          <symbol source="RFAM" name="HOXA11-AS1_5" />
+          <coordinates coord_system="LRG_561" start="2196" end="2398" strand="-1" mapped_from="GRCh38" />
+          <long_name>HOXA11 antisense RNA 1 conserved region 5 [Source:RFAM;Acc:RF02141] (misc_RNA)</long_name>
+          <db_xref source="RFAM" accession="RF02141" />
+          <db_xref source="Ensembl" accession="ENSG00000278592" />
+          <transcript source="Ensembl" accession="ENST00000620211.1">
+            <coordinates coord_system="LRG_561" start="2196" end="2398" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS1_5.1-201 (misc_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00003732935">
+              <coordinates coord_system="LRG_561" start="2196" end="2398" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000277966.1">
+          <symbol source="RFAM" name="HOXA11-AS1_4" />
+          <coordinates coord_system="LRG_561" start="3093" end="3325" strand="-1" mapped_from="GRCh38" />
+          <long_name>HOXA11 antisense RNA 1 conserved region 4 [Source:RFAM;Acc:RF02140] (misc_RNA)</long_name>
+          <db_xref source="RFAM" accession="RF02140" />
+          <db_xref source="Ensembl" accession="ENSG00000277966" />
+          <transcript source="Ensembl" accession="ENST00000620901.1">
+            <coordinates coord_system="LRG_561" start="3093" end="3325" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS1_4.1-201 (misc_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00003749931">
+              <coordinates coord_system="LRG_561" start="3093" end="3325" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000276496.1">
+          <symbol source="RFAM" name="HOXA11-AS1_3" />
+          <coordinates coord_system="LRG_561" start="3954" end="4051" strand="-1" mapped_from="GRCh38" />
+          <long_name>HOXA11 antisense RNA 1 conserved region 3 [Source:RFAM;Acc:RF02139] (misc_RNA)</long_name>
+          <db_xref source="RFAM" accession="RF02139" />
+          <db_xref source="Ensembl" accession="ENSG00000276496" />
+          <transcript source="Ensembl" accession="ENST00000613383.1">
+            <coordinates coord_system="LRG_561" start="3954" end="4051" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS1_3.1-201 (misc_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00003726067">
+              <coordinates coord_system="LRG_561" start="3954" end="4051" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000278334.1">
+          <symbol source="RFAM" name="HOXA11-AS1_2" />
+          <coordinates coord_system="LRG_561" start="4199" end="4385" strand="-1" mapped_from="GRCh38" />
+          <long_name>HOXA11 antisense RNA 1 conserved region 2 [Source:RFAM;Acc:RF02138] (misc_RNA)</long_name>
+          <db_xref source="RFAM" accession="RF02138" />
+          <db_xref source="Ensembl" accession="ENSG00000278334" />
+          <transcript source="Ensembl" accession="ENST00000615604.1">
+            <coordinates coord_system="LRG_561" start="4199" end="4385" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS1_2.1-201 (misc_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00003740528">
+              <coordinates coord_system="LRG_561" start="4199" end="4385" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000273961.1">
+          <symbol source="RFAM" name="HOXA11-AS1_1" />
+          <coordinates coord_system="LRG_561" start="4687" end="4784" strand="-1" mapped_from="GRCh38" />
+          <long_name>HOXA11 antisense RNA 1 conserved region 1 [Source:RFAM;Acc:RF02137] (misc_RNA)</long_name>
+          <db_xref source="RFAM" accession="RF02137" />
+          <db_xref source="Ensembl" accession="ENSG00000273961" />
+          <transcript source="Ensembl" accession="ENST00000613939.1">
+            <coordinates coord_system="LRG_561" start="4687" end="4784" strand="-1" mapped_from="GRCh38" />
+            <long_name>HOXA11-AS1_1.1-201 (misc_RNA)</long_name>
+            <exon source="Ensembl" accession="ENSE00003750861">
+              <coordinates coord_system="LRG_561" start="4687" end="4784" strand="-1" mapped_from="GRCh38" />
+            </exon>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000005073.5">
+          <symbol source="HGNC" name="HOXA11" />
+          <coordinates coord_system="LRG_561" start="4994" end="8707" strand="1" mapped_from="GRCh38" />
+          <long_name>homeobox A11 (protein_coding)</long_name>
+          <db_xref source="GeneID" accession="3207" />
+          <db_xref source="HGNC" accession="5101">
+            <synonym>HOX1</synonym>
+            <synonym>HOX1I</synonym>
+          </db_xref>
+          <db_xref source="MIM" accession="142958" />
+          <db_xref source="Ensembl" accession="ENSG00000005073" />
+          <transcript source="Ensembl" accession="ENST00000517402.1">
+            <coordinates coord_system="LRG_561" start="4994" end="8707" strand="1" mapped_from="GRCh38" />
+            <long_name>HOXA11-202 (protein_coding)</long_name>
+            <exon source="Ensembl" accession="ENSE00002138470">
+              <coordinates coord_system="LRG_561" start="4994" end="5061" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002108125">
+              <coordinates coord_system="LRG_561" start="5232" end="5781" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002101813">
+              <coordinates coord_system="LRG_561" start="7189" end="8707" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000448962.1" codon_start="2">
+              <coordinates coord_system="LRG_561" start="4994" end="7421" strand="1" mapped_from="GRCh38" />
+            </protein_product>
+          </transcript>
+          <transcript source="Ensembl" accession="ENST00000006015.3" fixed_id="t1">
+            <coordinates coord_system="LRG_561" start="5001" end="8702" strand="1" mapped_from="GRCh38" />
+            <long_name>HOXA11-201 (protein_coding)</long_name>
+            <db_xref source="RefSeq" accession="NM_005523.5" />
+            <exon source="Ensembl" accession="ENSE00001147062">
+              <coordinates coord_system="LRG_561" start="5001" end="5781" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <exon source="Ensembl" accession="ENSE00002099557">
+              <coordinates coord_system="LRG_561" start="7189" end="8702" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000006015.3" fixed_id="p1">
+              <coordinates coord_system="LRG_561" start="5073" end="7421" strand="1" mapped_from="GRCh38" />
+              <db_xref source="RefSeq" accession="NP_005514.1" />
+              <db_xref source="UniProtKB" accession="P31270" />
+              <db_xref source="CCDS" accession="CCDS5411.1" />
+            </protein_product>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000253293.4">
+          <symbol source="HGNC" name="HOXA10" />
+          <coordinates coord_system="LRG_561" start="9956" end="11060" strand="1" mapped_from="GRCh38" />
+          <partial>3-prime</partial>
+          <long_name>homeobox A10 (protein_coding)</long_name>
+          <db_xref source="GeneID" accession="3206" />
+          <db_xref source="HGNC" accession="5100">
+            <synonym>HOX1</synonym>
+            <synonym>HOX1H</synonym>
+          </db_xref>
+          <db_xref source="MIM" accession="142957" />
+          <db_xref source="Ensembl" accession="ENSG00000253293" />
+          <transcript source="Ensembl" accession="ENST00000396344.4">
+            <coordinates coord_system="LRG_561" start="9956" end="11060" strand="1" mapped_from="GRCh38" />
+            <partial>3-prime</partial>
+            <long_name>HOXA10-202 (protein_coding)</long_name>
+            <db_xref source="RefSeq" accession="NR_037939.1" />
+            <exon source="Ensembl" accession="ENSE00001524654">
+              <coordinates coord_system="LRG_561" start="9956" end="10571" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000379633.4">
+              <coordinates coord_system="LRG_561" start="10562" end="11060" strand="1" mapped_from="GRCh38" />
+              <partial>3-prime</partial>
+              <db_xref source="UniProtKB" accession="P31260" />
+            </protein_product>
+          </transcript>
+        </gene>
+        <gene source="Ensembl" accession="ENSG00000257184.3">
+          <symbol source="Clone_based_ensembl_gene" name="AC004080.3" />
+          <coordinates coord_system="LRG_561" start="10204" end="11060" strand="1" mapped_from="GRCh38" />
+          <partial>3-prime</partial>
+          <long_name>AC004080.3 (protein_coding)</long_name>
+          <db_xref source="Ensembl" accession="ENSG00000257184" />
+          <transcript source="Ensembl" accession="ENST00000470747.4">
+            <coordinates coord_system="LRG_561" start="10204" end="11060" strand="1" mapped_from="GRCh38" />
+            <partial>3-prime</partial>
+            <long_name>AC004080.3-201 (protein_coding)</long_name>
+            <exon source="Ensembl" accession="ENSE00001893746">
+              <coordinates coord_system="LRG_561" start="10204" end="10571" strand="1" mapped_from="GRCh38" />
+            </exon>
+            <protein_product source="Ensembl" accession="ENSP00000421799.3">
+              <coordinates coord_system="LRG_561" start="10562" end="11060" strand="1" mapped_from="GRCh38" />
+              <partial>3-prime</partial>
+            </protein_product>
+          </transcript>
+        </gene>
+      </features>
+    </annotation_set>
+    <annotation_set type="lsdb">
+      <source>
+        <name>List of locus specific databases for HOXA11</name>
+        <url>http://grenada.lumc.nl/LSDB_list/lsdbs/HOXA11</url>
+      </source>
+      <modification_date>2017-11-09</modification_date>
+    </annotation_set>
+  </updatable_annotation>
+</lrg>
