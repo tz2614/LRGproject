@@ -44,6 +44,8 @@ def gene_info(root): #grab info on genes
                 start = coordinates.get('start')
                 end = coordinates.get('end')
                 strand = coordinates.get('strand')
+                #Check statement to see if the start and end position of codons.
+                assert start < end , 'the start position should always be smaller than end'
         
     return (lrg_id, transcript, coord, start, end, strand)
 
