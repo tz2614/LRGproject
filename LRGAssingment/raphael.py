@@ -2,6 +2,10 @@
 # By Tengyue Zheng and Seamus Duffy
 # 8/11/2017 
 
+#version 1.1: tertle.py
+#version 1.2: donatello.py
+#version 1.3: leonardo.py
+#Current version: raphael.py
 
 #How to use it: 1. python raphael.py
 #               2. enter filename in following format LRG_XX.xml 
