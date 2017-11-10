@@ -16,7 +16,7 @@ import sys
 
 #def geneinfoparser(fileName):
 
-#code taken from reference below to check that https://github.com/MattWellie/XML_Parser/blob/master/XML_Parser.py
+#code taken from reference below to check that (https://github.com/MattWellie/XML_Parser/blob/master/XML_Parser.py)
 #fileName = sys.argv[1]
 #assert fileName[-4:] == '.xml', 'You have the wrong input file'
 #assert len(sys.argv) <4, "Too many arguments!"
