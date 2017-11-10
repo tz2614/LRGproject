@@ -66,7 +66,6 @@ def build_info(UA):
         gend38 = child.get('other_end')
 """
 
-
 def gene_name(filename):
 
     gene = root.find('updatable_annotation/annotation_set/lrg_locus').text
@@ -115,7 +114,6 @@ def get_exon_data(filename):
 (trans_exon_pos)= get_exon_data(filename)
 
 
-
 def get_protein_data(filename):
 
     protein_count = 0 # protein count set to zero
@@ -145,33 +143,3 @@ def get_protein_data(filename):
     return (prot_exon_pos)
 
 (trans_exon_pos)= get_exon_data(filename)
-
-
-
-"""
-    try:
-        prot_block = item.find("sequence")
-        protein_seq = prot_block.text
-        #print protein_seq
-        prot_transcript = item.attrib['name']
-        #print transcript
-    except:
-        print "No protein sequence was found"
-    protexons = []
-    #print 'for exon in...'
-    for exon_item in root.findall(exon_level):
-        for exon in exon_item.iter('exon'):
-            #print 'for coord in exon'
-            for coordinates in exon:
-                #print 'if...'
-                if coordinates.attrib['coord_system'][-2:] == prot_transcript:
-                    start_index = int(coordinates.attrib['start'])
-                    end_index = int(coordinates.attrib['end'])
-                    assert start_index >= 0, "Exon index out of bounds"
-                    assert end_index <= len(protein_seq), "Exon index out of bounds"
-                    seq = protein_seq[start_index-1:end_index]
-                    protexons.append((exon.attrib['label'], start_index, end_index,seq))
-    proteindict[prot_transcript] = protexons
-return proteindict
-"""
-
