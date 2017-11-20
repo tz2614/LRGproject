@@ -32,7 +32,7 @@
       </coding_region>
       <exon label="1">
         <coordinates coord_system="LRG_214" start="4951" end="5393" strand="1" />
-        <coordinates coord_system="LRG_214t1" start="1000" end="5" />
+        <coordinates coord_system="LRG_214t1" start="1" end="443" />
         <coordinates coord_system="LRG_214p1" start="1" end="20" />
       </exon>
       <intron phase="0" />
