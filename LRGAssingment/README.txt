@@ -21,8 +21,8 @@ User Stories:
 -Return gene information including LRG_ID, gene name, genomic coordinates, 
 	number of transcripts, number of exons and exon locations
 
-Sample Input: donatello.py
-"Enter an LRG file:" LRG_343.xml
+Sample Input: raphael.py
+"Enter an LRG file:" LRG_214.xml
 
 Sample Output:
 
