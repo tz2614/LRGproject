@@ -1,5 +1,5 @@
 # BIOL68400 Programming Project
-# By Tony and Seamy
+# By Tengyue and Seamy
 # 8/11/2017 
 
 
