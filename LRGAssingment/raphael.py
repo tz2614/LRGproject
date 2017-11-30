@@ -12,7 +12,6 @@
 
 #importing packages
 import xml.etree.ElementTree as ET
-import glob
 
 #user to specify LRG. ?How to make .xml extension automatic?
 filename = input('Enter an LRG file e.g LRG_X.xml:')
