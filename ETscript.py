@@ -67,40 +67,6 @@ def geneinfoparser(xmlfile):
 #LRGdict = { 'gene': 'LRGref',
     #      'exon': 'number',
 
-"""
-def get_exoncoords(level,padding,genseq):
-    '''Traverses the XML eTree to identify all the exons for the sequence
-       Returns a dictionary containing exon numbers, start and finish
-       co-ordinates, and the appropriate chunk of sequence.
-       The dictionary is designed to be passed to a dedicated write function
-       which will print the appropriate sequence elements and identifiers to
-       an output file'''
-    transcriptdict = {} #LRG files can contain more than one transcript in fixed annotation section
-    for items in level.findall('transcript'):
-        transcript = items.attrib['name']
-        tranexons = []
-        for exon in items.iter('exon'):
-            for coordinates in exon:
-                if coordinates.attrib['coord_system'][-2:] == transcript:
-                    #ensures only genomic coords are taken
-                    startIndex = int(coordinates.attrib['start'])
-                    endIndex = int(coordinates.attrib['end'])
-                    assert startIndex >= 0, "Exon index out of bounds"
-                    assert endIndex <= len(genseq), "Exon index out of bounds"
-                    seq = genseq[startIndex-1:endIndex]
-                    if padding > 0:
-                        assert startIndex - pad >= 0, "Exon index out of bounds"
-                        assert endIndex + pad <= len(genseq), "Exon index out of bounds"
-                        pad5 = genseq[startIndex-padding-1:startIndex]
-                        pad3 = genseq[endIndex:endIndex+padding+1]
-                        seq = pad5.lower() + seq + pad3.lower()
-                    tranexons.append((exon.attrib['label'],startIndex, endIndex,seq))
-                #can add extra elif options to grab other sequence types
-        transcriptdict[transcript] = tranexons
-return transcriptdict
-"""
-
-
 
 
 
