@@ -45,7 +45,6 @@ def gene_info(root): #grab info on genes
                 int_end = int(end)
                 assert (int_start < int_end), "Genomic start should be smaller than genomic end"
              
-           
     return (lrg_id, transcript, coord, start, end, strand, int_start, int_end)
 
 def build_info(UA):
